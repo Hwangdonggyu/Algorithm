@@ -1,3 +1,4 @@
+# 다항식 계산 - 시간복잡도 비교해보기 O(n),O(n^2)을 실행시키고 비교해보자.
 import time, random
 
 def evaluate_n2(A, x):
